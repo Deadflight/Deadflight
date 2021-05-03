@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deadflight
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Javascript, NodeJs, React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, NodeJs, React
+- 💞️ I’m looking to collaborate on JavaScript, React, NodeJs projects
 - 📫 How to reach me ...
 
 <!---
