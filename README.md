@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Carlos Correa 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Frontend Developer | Open Source ♥ | React.Js | Next.Js | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/531-5311716_reactjs-web-app-development-services-software-development-company.png" />
 <div align="left"> 
