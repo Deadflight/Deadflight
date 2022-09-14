@@ -13,7 +13,7 @@
   
   - 🌱 &nbsp; Learning more about Frontend Architectures and Developement.
   
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Cook and Gaming as hobbies/side hustles.  
   
 </div> 
 </div>
