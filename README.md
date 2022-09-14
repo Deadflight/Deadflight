@@ -4,6 +4,7 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/531-5311716_reactjs-web-app-development-services-software-development-company.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+  
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   
   - 🎓 &nbsp; Studying Computer Science and Engineering.
@@ -13,6 +14,7 @@
   - 🌱 &nbsp; Learning more about Frontend Architectures and Developement.
   
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  
 </div> 
 </div>
 <div>
