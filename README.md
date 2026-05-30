@@ -39,4 +39,4 @@ const deadflight = {
 
 - 🌐 Portfolio: [carlos-correa.com](https://www.carlos-correa.com)
 - 💼 LinkedIn: [linkedin.com/in/carloscorreamillan](https://linkedin.com/in/carloscorreamillan)
-- ✉️ Email: [github.com/Deadflight](https://github.com/Deadflight)
+- ✉️ Email: correamillancarlos@gmail.com
